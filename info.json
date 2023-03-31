@@ -1,0 +1,25 @@
+{"dataofall": [
+  {
+    "tags": "greetings",
+    "patterns": ["hello","bonjour","Good day","how u doing","what's up?","hi","Hey","hey"],
+    "responses": ["heyyy This is ChatBot101 (*^ ooo ^)","hey! you are taking to ChatBot101     (.' ~ '.)","Welcome to ChatBot101 ^_____^"]
+  },{
+    "tags": "name",
+    "patterns": ["what is your name","name","what's your name","who are you","what should I call you"],
+  "responses": ["You can call me ChatBot101","I'm ChatBot101","I'm ChatBot101 your virtual assistant"]
+  },
+  {"tag": "invalid",
+  "patterns": ["","fikgj","fns"],
+  "responses": ["tell me more","how much would you rate this chatbot?","Sorry,I am still learning"]
+  },
+  {"tag": "thanks",
+    "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+    "responses": ["Happy to help!", "Any time!", "My pleasure"]
+  },
+  {"tag": "goodbye",
+  "patterns": ["cya","See you later","Goodbye","I am leaving","Have a Good Day","bye","see ya"],
+  "responses": ["Sad to see you go :(","Nice talking to you!","So, it's Goodbye now"]
+  }
+]
+
+}
